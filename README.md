@@ -1,2 +1,2 @@
 # NRF52-LCD-DRIVER
-LCD driver for NRF52
+An NRF52 implementation of then LCD Driver
